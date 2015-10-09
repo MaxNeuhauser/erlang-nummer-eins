@@ -14,3 +14,6 @@
 fac(1) -> 1;
 fac(X) ->
     X * fac(X - 1).
+
+anzeige(A) ->
+    io:format("~p~n", [A]).
