@@ -11,3 +11,6 @@
 
 -compile(export_all).
 
+fac(1) -> 1;
+fac(X) ->
+    X * fac(X - 1).
