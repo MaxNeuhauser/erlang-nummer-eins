@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f07fee0b-6ec4-4f08-8a9b-cce9f1042462" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testprogramme.erl" afterPath="$PROJECT_DIR$/src/testprogramme.erl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="erlang-nummer-eins.iws" />
     <ignored path=".idea/workspace.xml" />
